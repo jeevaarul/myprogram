@@ -1,0 +1,21 @@
+Python Program to Add Two Numbers
+Python Program to Find the Square Root
+Python Program to Calculate the Area of a Triangle
+Python Program to Solve Quadratic Equation
+Python Program to Swap Two Variables
+Python Program to Swap Two Variables without using temporary variable
+Python Program to Swap Two Variables without causing overflow
+Python Program to Generate a Random Number
+Python Program to Convert Kilometers to Miles
+Python Program to Convert Celsius To Fahrenheit
+Python Program to Check if a Number is Positive, Negative or 0
+Python Program to Check if a Number is Odd or Even
+Python Program to Check Leap Year
+Python Program to Find the Largest Among Three Numbers
+Python Program to Find the Smallest Among Three Numbers
+Python Program to Find the Factorial of a Number
+Python Program to Display the multiplication Table
+Python Program to Print the Fibonacci sequence
+Python Program to Find the Sum of Natural Numbers upto N
+Python Program to Print all Numbers in a Range Divisible by a Given Number
+Python Program to Read Two Numbers and Print Their Quotient and Remainder
